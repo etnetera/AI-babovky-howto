@@ -44,7 +44,7 @@ Resource Group je logická skupina pro správu Azure prostředků. Všechny pros
 ![create resource group](/img/azure-resourcegroup.png) <br>
 
 3. **Vyplnění základních údajů**
-   - **Subscription**: Vyberte správné předplatné
+   - **Subscription**: Vyberte správné předplatné ( vaše subskripce se bude jmenovat  `Předplatné sady Visual Studio Enterprise – MPN` případně `Visual Studio Enterprise Subscription – MPN`)
    - **Resource group name**: Zadejte název (např. `my-app-rg`)
    - **Region**: Vyberte region (doporučeno: West Europe)
 
